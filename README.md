@@ -8,3 +8,5 @@
 ・デバッグモード / Cキー  
 #### プレイ
 [Play Mario in Web](https://hayabusa2-1998ky26.github.io/Mario-by-Ruby/)  
+!インターネット接続がないとプレイできません!  
+ロードに時間がかかる場合があります。  
